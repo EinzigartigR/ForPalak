@@ -1,0 +1,7 @@
+.mydiv{
+  border: 2px solid red;
+  border-radius: 20px;
+  width: 40%;
+  float: left;
+  padding: 20px;
+}
